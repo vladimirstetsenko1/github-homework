@@ -1,4 +1,15 @@
+.excerpt {
+  /* Sets the border */
+  border: 2px dashed #2196f3;
+
+  /* Adds an inner padding */
+  padding: 15px;
+
+  /* Sets outer margins */
+  margin: 20px;
+}
+
 body {
-  background-color: #fff;
-  -webkit-animation: cubic-bezier(0.23, 1, 0.32, 1);
+  font-family: sans-serif;
+  line-height: 1.5;
 }
